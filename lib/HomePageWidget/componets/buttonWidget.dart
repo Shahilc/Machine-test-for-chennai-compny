@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:untitled3/globalVarible.dart';
+import 'package:untitled3/Services/globalVarible.dart';
 class ButtonWidget extends StatelessWidget {
   final String name;
   final double  paddingMs;

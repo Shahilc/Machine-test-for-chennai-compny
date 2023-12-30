@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:untitled3/globalVarible.dart';
-import 'package:untitled3/personalDetails.dart';
-import 'buttonWidget.dart';
+import 'package:untitled3/Services/globalVarible.dart';
+import 'componets/buttonWidget.dart';
 class Homepage extends StatefulWidget {
   const Homepage({super.key});
   @override
